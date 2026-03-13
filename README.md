@@ -9,6 +9,7 @@ Tools Used:
 -Kali Linux (attack simulation)
 -Linux endpoint system
 
+
 Project Overview:
 
 In this lab environment, Wazuh agents were deployed on Linux endpoints to collect and monitor system logs. Security events were analyzed using the ELK Stack dashboards.
@@ -32,13 +33,13 @@ The lab simulates real SOC workflows including attack detection, log analysis, a
 
 
 ### Wazuh Security Dashboard
-
+![Wazuh Dashboard](./Screenshot%202026-03-13%20230241.png)
 
 ### Security Events Detected
-(Upload events screenshot here)
+![Kali Attack](./Screenshot%202026-03-13%20230438.png)
 
 ### Kali Linux Attack Simulation
-(Upload attack screenshot here)
+![Security Events](./Screenshot%202026-03-13%20230335.png)
 
 ## Skills Demonstrated
 
